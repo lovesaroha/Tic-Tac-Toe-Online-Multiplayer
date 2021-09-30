@@ -26,4 +26,4 @@ Create your own personal game room or join other rooms and start playing tic tac
 ---
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/33.png)
 
-[lovesaroha/n/Tic-Tac-Toe-Online-Multiplayer](https://lovesaroha.com/n/Tic-Tac-Toe-Online-Multiplayer)
+[tic-tac-toe.lovesaroha](https://tic-tac-toe.lovesaroha.com)
